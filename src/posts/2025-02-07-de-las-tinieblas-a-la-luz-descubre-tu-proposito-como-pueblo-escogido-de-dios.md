@@ -5,7 +5,7 @@ title: "De las Tinieblas a la Luz: Descubre Tu Propósito como Pueblo Escogido d
 ---
 Imagina por un momento que estás en medio de una gran oscuridad. No puedes ver nada, ni siquiera tus propias manos frente a ti. Todo lo que escuchas son susurros confusos y voces distantes que no logras entender. Te sientes perdido, desconectado, como si nadie supiera dónde estás ni cuál es tu propósito. Esta imagen podría representar cómo muchas personas viven hoy en día: sin dirección, sin esperanza y sin sentido claro en sus vidas.
 
-Pero ahora imagina que, de repente, una luz brillante comienza a iluminar ese lugar oscuro. No solo disipa las sombras, sino que también revela un camino claro frente a ti. Esa luz no solo te muestra el camino, sino que también te da paz, propósito y alegría. ¿No sería maravilloso experimentar algo así?
+Pero ahora imagina que, de repente, una luz brillante comienza a iluminar ese lugar oscuro. No solo disipa las sombras, sino que también revela un camino claro frente a ti. Esa luz no solo te muestra el camino, sino que también te da paz, propósito y alegría. **¿No sería maravilloso experimentar algo así?**
 
 Este es exactamente el mensaje que encontramos en \*\*1 Pedro 2:9\*\*, donde nos recuerda que hemos sido llamados \*de las tinieblas a su maravillosa luz\*. Hoy quiero invitarte a reflexionar sobre lo que significa ser parte de esa luz y cómo podemos cumplir nuestro propósito divino en este mundo."
 
