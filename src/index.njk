@@ -1,0 +1,15 @@
+---
+title: Inicio
+layout: base.njk
+---
+
+<h1>{{ title }}</h1>
+
+<div class="grid">
+	{% for post in collections.posts %}
+		<article>
+			<header>{{ post.data.title }}</header>
+			<a href="{{ post.url | url }}" role="button">Leer</a>
+		</article>
+	{% endfor %}
+</div>
