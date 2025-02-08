@@ -2,3 +2,29 @@
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(1fr, 200px));
 }
+
+.container {
+	max-width: 75ch
+}
+
+article header .title {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+article .desc {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+}
+
+article .date {
+	display: block;
+	margin: 10px 0;
+	opacity: 0.7;
+}
+
+.contrast {
+  text-decoration: none;
+}

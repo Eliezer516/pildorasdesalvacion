@@ -1,15 +1,15 @@
 // require("pretty-error").start()
-// const { format } = require("@formkit/tempo")
-// const seccionesYAreas = require("./src/_data/areas.js")
-// const paginas = require("./src/_data/paginas.json")
+const { format } = require("@formkit/tempo")
+const metagen = require('eleventy-plugin-metagen');
+
 
 module.exports = function(eleventyConfig) {
-	// eleventyConfig.addPassthroughCopy("src/admin/config.yml");
+	eleventyConfig.addPlugin(metagen);
 	eleventyConfig.addPassthroughCopy("src/assets/");
 
-	// eleventyConfig.addFilter("formatDate", (date) => {
-	// 	return format(new Date(date), "DD/MM/YYYY", "es")
-	// })
+	eleventyConfig.addFilter("formatDate", (date) => {
+		return format(new Date(date), "full", "es")
+	})
 
 	eleventyConfig.addCollection("posts", (collectionsApi) => {
 		return collectionsApi.getFilteredByGlob("src/posts/*.md")

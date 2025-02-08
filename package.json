@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "@formkit/tempo": "^0.1.2",
+    "eleventy-plugin-metagen": "^1.8.3"
   }
 }

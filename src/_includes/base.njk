@@ -3,9 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{{ "/assets/css/github-markdown.css" | url }}">
 	<link rel="stylesheet" href="{{ "/assets/css/pico.css" | url }}">
 	<link rel="stylesheet" href="{{ "/assets/css/styles.css" | url }}">
-	<title>{{ title }}</title>
+	{# <title>{{ title }}</title> #}
+	{% metagen metadata %}
 </head>
 <body>
 	<main class="container">

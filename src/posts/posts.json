@@ -1,3 +1,9 @@
 {
-	"layout": "post.njk"
+	"layout": "post.njk",
+	"eleventyComputed": {
+		"metadata": {
+			"title": "{{ title }}",
+			"desc": "{{ title }}"
+		}
+	}
 }

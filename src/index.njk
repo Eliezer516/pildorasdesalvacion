@@ -1,15 +1,23 @@
 ---
 title: Inicio
 layout: base.njk
+eleventyComputed:
+  metadata:
+    title: "{{ title }}"
+    desc: "{{ title }}"
 ---
 
 <h1>{{ title }}</h1>
 
-<div class="grid">
+<div>
 	{% for post in collections.posts %}
-		<article>
-			<header>{{ post.data.title }}</header>
-			<a href="{{ post.url | url }}" role="button">Leer</a>
-		</article>
+			<article>
+				<header>
+					<a href="{{ post.url | url }}" class="contrast title">{{ post.data.title }}</a>
+				</header>
+				<span class="date">{{ post.date | formatDate }}</span>
+				<p class="desc">{{ post.rawInput }}</p>
+				<a href="{{ post.url | url }}" role="button">Leer</a>
+			</article>
 	{% endfor %}
 </div>
