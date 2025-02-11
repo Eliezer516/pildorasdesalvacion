@@ -12,5 +12,9 @@ Imagina vivir libre de ansiedad, con la certeza de que Dios está siempre contig
 Ahora es el momento de dar un paso hacia esa confianza profunda que Dios quiere darte. Aquí tienes tres acciones prácticas que puedes tomar hoy:
 
 1.  **Declara tu confianza:** Encuentra un lugar tranquilo y repite en voz alta: 'Confío en Ti, Señor, aunque no entienda tus caminos. Tú eres mi fortaleza y mi refugio.'
+    
 2.  **Lee Salmos diariamente:** Dedica tiempo a meditar en los salmos, especialmente aquellos que hablan de confianza en Dios. Permiten que estas palabras llenen tu corazón de esperanza.
-3.  **Comparte tu carga con Él:** Antes de dormir今晚, toma un momento para orar y entregarle a Dios todas tus preocupaciones. Pídelle que te enseñe a confiar más en Él cada día. Si sientes en tu corazón el deseo de profundizar en esta área o necesitas apoyo para fortalecer tu fe, habla conmigo después. Recuerda, Dios te ha llamado a ser bienaventurado mediante la confianza en Él.
+    
+3.  **Comparte tu carga con Él:** Antes de dormir, toma un momento para orar y entregarle a Dios todas tus preocupaciones. Pídele que te enseñe a confiar más en Él cada día.
+    
+    Si sientes en tu corazón el deseo de profundizar en esta área o necesitas apoyo para fortalecer tu fe, habla con Dios. Recuerda, Dios te ha llamado a ser bienaventurado mediante la confianza en Él.
