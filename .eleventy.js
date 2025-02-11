@@ -8,7 +8,10 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("src/assets/");
 
 	eleventyConfig.addFilter("formatDate", (date) => {
-		return format(new Date(date), "full", "es")
+		const fecha = new Date(date)
+		const fechaFormateada = format(fecha, "full", "es")
+		const fechaLegible = fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.substring(1)
+		return fechaLegible
 	})
 
 	eleventyConfig.addCollection("posts", (collectionsApi) => {

@@ -10,7 +10,7 @@ eleventyComputed:
 <h1>{{ title }}</h1>
 
 <div>
-	{% for post in collections.posts %}
+	{% for post in collections.posts | reverse %}
 			<article>
 				<header>
 					<a href="{{ post.url | url }}" class="contrast title">{{ post.data.title }}</a>

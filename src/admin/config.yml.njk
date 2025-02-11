@@ -1,0 +1,22 @@
+---
+permalink: "admin/config.yml"
+---
+backend:
+  name: github
+  repo: Eliezer516/pildorasdesalvacion
+  branch: main
+  base_url: https://sveltia-cms-auth.yonaikereliezerbarretomaterano.workers.dev/
+
+media_folder: "src/assets/images"
+public_folder: "/assets/images"
+
+
+collections:  
+  - name: "posts"
+    label: "Publicaciones"
+    folder: "src/posts"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "datetime"}
+      - { label: "Body", name: "body", widget: "markdown" }
