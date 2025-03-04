@@ -8,8 +8,6 @@ El pasaje bíblico Juan 8:31 en la versión Reina-Valera 1960 (RV1960) dice:
 
 "Dijo entonces Jesús a los judíos que habían creído en él: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos; y conoceréis la verdad, y la verdad os hará libres."
 
-A continuación, se desglosa el pasaje:
-
 1. "Dijo entonces Jesús a los judíos que habían creído en él":  
      
 
